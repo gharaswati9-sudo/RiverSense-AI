@@ -42,3 +42,7 @@ next-env.d.ts
 backend/dnabert_finetuned/model.safetensors 
 
 .env
+__pycache__/
+*.cpython-*.pyc
+backend/app/reports/report_*.pdf
+backend/app/reports/report_*.txt
