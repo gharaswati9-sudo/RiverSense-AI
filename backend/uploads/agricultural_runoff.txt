@@ -1,0 +1,7 @@
+20.0	4000	4000	S	101	Escherichia coli
+25.0	5000	5000	S	102	Vibrio cholerae
+20.0	4000	4000	S	103	Micrococcus luteus
+12.0	2400	2400	S	201	Rhizobium leguminosarum
+8.0	1600	1600	S	302	Bacillus subtilis
+5.0	1000	1000	S	403	Nitrosomonas europaea
+10.0	2000	2000	U	000	unclassified
